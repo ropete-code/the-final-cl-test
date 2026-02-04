@@ -1,2 +1,3 @@
-#!/bin/bash
-cut -f1,2 mystery/people
+#!/usr/bin/env bash
+echo "John Doe"
+
