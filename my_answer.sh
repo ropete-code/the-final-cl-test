@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-echo "John Doe"
+printf "John Doe\n\n"
+
 
