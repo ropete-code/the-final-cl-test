@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "John Doe"
-echo
+cut -f1,2 mystery/people
